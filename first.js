@@ -1,0 +1,11 @@
+console.log('Hello from first.js');
+myName = 'muj.i';
+console.log(myName);
+age = 23;
+console.log(age);
+job = null;
+console.log(job);
+isActive = true;
+console.log(isActive);
+val = undefined;
+console.log(val);
